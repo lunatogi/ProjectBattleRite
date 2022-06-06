@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectBattleRite 1.4.Plugins", "ProjectBattleRite 1.4.Plugins.csproj", "{8142A561-8500-68DA-E1E1-F311805BE343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectBattleRite 1.4", "ProjectBattleRite 1.4.csproj", "{2D3C135C-FA7C-9491-B8E3-3E44D34BD9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectBattleRite 1.4.Editor", "ProjectBattleRite 1.4.Editor.csproj", "{6AB5F3BB-60B9-E356-C392-CFCDE270FFA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8142A561-8500-68DA-E1E1-F311805BE343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8142A561-8500-68DA-E1E1-F311805BE343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8142A561-8500-68DA-E1E1-F311805BE343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8142A561-8500-68DA-E1E1-F311805BE343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D3C135C-FA7C-9491-B8E3-3E44D34BD9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3C135C-FA7C-9491-B8E3-3E44D34BD9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3C135C-FA7C-9491-B8E3-3E44D34BD9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3C135C-FA7C-9491-B8E3-3E44D34BD9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB5F3BB-60B9-E356-C392-CFCDE270FFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB5F3BB-60B9-E356-C392-CFCDE270FFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB5F3BB-60B9-E356-C392-CFCDE270FFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB5F3BB-60B9-E356-C392-CFCDE270FFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
